@@ -2,7 +2,7 @@ package com.appnow.services;
 
 import org.springframework.stereotype.Service;
 
-@Service
+@Service("build")
 public class Building implements Job {
 	
 	{
